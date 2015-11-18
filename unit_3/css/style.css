@@ -1,0 +1,36 @@
+body {
+	background-image: url(https://niceandknit.files.wordpress.com/2012/07/192a1053.jpg);
+	background-size: cover;
+}
+
+hr {
+	padding: 0px;
+}
+
+h1 {
+	font-family: "Palatino Linotype", serif;
+	font-style: italic;
+	text-transform: lowercase;
+	font-size: 75px;
+	text-align: center;
+	padding: 0px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+p, i, li {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#slogan {
+	font-style: italic;
+	font-size: 35px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+* {
+	color: #e0e0e0;
+}
+
